@@ -64,6 +64,6 @@ Homework Set 10
 
 -----
 
-To follow along with Professor's feedback, I will create a new version with a main() method as a sandbox environment to test out the various methods/questions.
+To follow along with Professor's feedback, I will create a new version with one Java project, multiple methods as each question, and a main() method as a sandbox environment to test out the various methods/questions.
 
 
