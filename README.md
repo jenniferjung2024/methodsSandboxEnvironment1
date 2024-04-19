@@ -1,5 +1,5 @@
 # methodsSandboxEnvironmentExample
-Create sandbox environment for methods....Homework set #10 for CSE 118 (Fundamentals of Programming) 
+Creating a sandbox environment for methods....Homework set #10 for CSE 118 (Fundamentals of Programming) 
 
 CSE118
 
